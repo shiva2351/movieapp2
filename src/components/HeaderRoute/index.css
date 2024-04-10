@@ -1,0 +1,31 @@
+li{
+    list-style-type: none;
+}
+ul{
+    padding-left: 0px;
+}
+.header{
+    border:2px solid green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-ul{
+    flex-basis:80vw;
+    display: flex;
+    justify-content: space-between;
+}
+.header-ul2{
+    display: flex;
+    flex-basis: 30vw;
+    justify-content: space-between;
+    margin-right: 5px;
+}
+.header-li{
+    display: flex;
+}
+
+.header-search{
+    display: flex;
+}

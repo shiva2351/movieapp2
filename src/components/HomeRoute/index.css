@@ -1,0 +1,53 @@
+.home-origin-img {
+    width: 100px;
+  }
+  
+  .home-origin-Item {
+    list-style-type: none;
+  }
+  .home-bottom-card {
+    background-color: #131313;
+    padding-right: 40px;
+    padding-left: 40px;
+    display: flex;
+    flex-direction: column;
+  }
+  .home-heading {
+    color: white;
+    font-family: HK Grotesk;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 42px;
+    letter-spacing: 0px;
+    text-align: left;
+    width: 197px;
+    height: 42px;
+    top: 637px;
+    left: 165px;
+  }
+  .home-over-card {
+    padding: 30px;
+    color: white;
+  }
+  
+  .home-play {
+    width: Hug (77px);
+    height: Hug (48px);
+    top: 395px;
+    left: 165px;
+    border-radius: 3px;
+  }
+  .home-over-para {
+    color: #ffffff;
+    font-family: HK Grotesk;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 443px;
+    height: 78px;
+    top: 285px;
+    left: 164px;
+  }
+  
